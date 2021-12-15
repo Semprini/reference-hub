@@ -1,0 +1,9 @@
+django
+djangorestframework
+django-simple-history
+drf-nest
+drf-yasg
+pycryptodome
+kafka-python
+psycopg2-binary
+pytz
